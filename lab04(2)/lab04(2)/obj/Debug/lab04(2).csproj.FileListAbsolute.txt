@@ -1,0 +1,6 @@
+C:\Users\Pc\Desktop\C#\C#\ss7\lab04(2)\lab04(2)\bin\Debug\lab04(2).exe.config
+C:\Users\Pc\Desktop\C#\C#\ss7\lab04(2)\lab04(2)\bin\Debug\lab04(2).exe
+C:\Users\Pc\Desktop\C#\C#\ss7\lab04(2)\lab04(2)\bin\Debug\lab04(2).pdb
+C:\Users\Pc\Desktop\C#\C#\ss7\lab04(2)\lab04(2)\obj\Debug\lab04(2).csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\C#\C#\ss7\lab04(2)\lab04(2)\obj\Debug\lab04(2).exe
+C:\Users\Pc\Desktop\C#\C#\ss7\lab04(2)\lab04(2)\obj\Debug\lab04(2).pdb

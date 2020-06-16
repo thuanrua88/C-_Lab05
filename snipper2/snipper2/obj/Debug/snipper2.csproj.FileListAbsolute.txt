@@ -1,0 +1,2 @@
+C:\Users\Pc\Desktop\C#\C#\ss7\snipper2\snipper2\obj\Debug\snipper2.csprojAssemblyReference.cache
+C:\Users\Pc\Desktop\C#\C#\ss7\snipper2\snipper2\obj\Debug\snipper2.csproj.CoreCompileInputs.cache
